@@ -10,13 +10,11 @@
 
 ## 🔗 Highlighted Projects
 
-- **LevelsLiving IMS** — Real-time inventory, low-stock alerts, PO automation, weekly forecasting (RMSE/MAPE/R²).  
-  *Role:* Full-Stack • *Stack:* React, Node.js, PostgreSQL, Python (scikit-learn), Digital Ocean
-  • [Repo](https://github.com/qtnguyen1611/levelsliving-inventory-mangement-system)
+- **LevelsLiving IMS** — Real-time inventory, low-stock alerts, PO automation, forecasting (RMSE/MAPE/R²).  
+  *Role:* Full-Stack • *Stack:* React, Node.js, PostgreSQL, Python (scikit-learn), Digital Ocean • [Repo](https://github.com/qtnguyen1611/levelsliving-inventory-mangement-system)
 
 - **E-Commerce Web App** — Order lifecycle (place/track/modify), Stripe payments; microservices APIs.  
-  *Role:* Leader, Lead Full-Stack • *Stack:* Vue, Node.js, Flask, Stripe  
-  • [Repo](https://github.com/qtnguyen1611/e-commerce-web-app )
+  *Role:* Leader, Lead Full-Stack • *Stack:* Vue, Node.js, Flask, Stripe • [Repo](https://github.com/qtnguyen1611/e-commerce-web-app )
 
 - **CRM System** — User management, transaction tracking, SFTP integration; AWS deployment.  
   *Role:* Backend • *Stack:* Java, Spring Boot, PostgreSQL, AWS, SFTP
