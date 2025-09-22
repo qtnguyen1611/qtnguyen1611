@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Toan (Nguyen Quoc Toan)
 
-🎓 Information Systems @ SMU specializing in Product Development (2nd Major: Cybersecurity)  
+🎓 Information Systems @ SMU specializing in Product Development | 2nd Major in Cybersecurity
 
 💻 With a foundation in software engineering and business, I enjoy turning user and stakeholder needs into scalable solutions that improve efficiency and create impact.
 
