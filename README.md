@@ -1,7 +1,9 @@
 # 👋 Hi, I’m Toan (Nguyen Quoc Toan)
 
 🎓 Information Systems @ SMU specializing in Product Development (2nd Major: Cybersecurity)  
-💻 I build practical, scalable systems (backend, cloud, and product)  
+
+💻 With a foundation in software engineering and business, I enjoy turning user and stakeholder needs into scalable solutions that improve efficiency and create impact.
+
 ☁️ AWS Solutions Architect – Associate
 
 > Some projects are private due to client/sponsor confidentiality. I’m happy to walk through architecture, decisions, and demos on request.
@@ -14,7 +16,7 @@
   *Role:* Full-Stack • *Stack:* React, Node.js, PostgreSQL, Python (scikit-learn), Digital Ocean • [Repo](https://github.com/qtnguyen1611/levelsliving-inventory-mangement-system)
 
 - **E-Commerce Web App** — Order lifecycle (place/track/modify), Stripe payments; microservices APIs.  
-  *Role:* Leader, Lead Full-Stack • *Stack:* Vue, Node.js, Flask, Stripe • [Repo](https://github.com/qtnguyen1611/e-commerce-web-app )
+  *Role:* Lead Full-Stack • *Stack:* Vue, Node.js, Flask, Stripe • [Repo](https://github.com/qtnguyen1611/e-commerce-web-app )
 
 - **CRM System** — User management, transaction tracking, SFTP integration; AWS deployment.  
   *Role:* Backend • *Stack:* Java, Spring Boot, PostgreSQL, AWS, SFTP
