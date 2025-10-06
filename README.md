@@ -39,3 +39,7 @@
 
 ## 📫 Contact
 [LinkedIn](https://www.linkedin.com/in/nguyenquoctoan/) • qtnguyen.2022@smu.edu.sg
+
+## 📄 Resume
+[Download My Resume (PDF)](https://github.com/qtnguyen1611/qtnguyen1611/raw/main/Nguyen_Quoc_Toan_Resume.pdf)
+
