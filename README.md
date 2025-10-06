@@ -31,7 +31,7 @@
 ## ⚙️ Skills
 **Languages:** Java, Python, JavaScript, SQL  
 **Frameworks:** Spring Boot, FastAPI, Node.js, React, Vue  
-**Cloud & DevOps:** AWS (EC2, S3, RDS, VPC, IAM, API Gateway), Docker, GitHub Actions, Unit/Integration Test 
+**Cloud & DevOps:** AWS (EC2, S3, RDS, VPC, IAM, API Gateway), Docker, GitHub Actions, Unit/Integration/e2e Test 
 **Databases:** PostgreSQL, MySQL  
 **Other:** Kafka, RabbitMQ, UiPath, Power Automate
 
