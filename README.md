@@ -41,5 +41,5 @@
 [LinkedIn](https://www.linkedin.com/in/nguyenquoctoan/) • qtnguyen.2022@smu.edu.sg
 
 ## 📄 Resume
-[Download My Resume (PDF)](https://github.com/qtnguyen1611/qtnguyen1611/NGUYEN_QUOC_TOAN.pdf)
+[Download My Resume (PDF)](https://github.com/qtnguyen1611/qtnguyen1611/blob/main/NGUYEN_QUOC_TOAN.pdf)
 
